@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 9071594138542797857
       m_GuidHigh: 9968157162635627850
-    m_Size: {x: 0.9, y: 0.9}
+    m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: ARalin QR
     m_Texture: {fileID: 0}
